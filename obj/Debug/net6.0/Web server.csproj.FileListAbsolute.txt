@@ -1,0 +1,78 @@
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\appsettings.json
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Web server.exe
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Web server.deps.json
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Web server.runtimeconfig.json
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Web server.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Web server.pdb
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\DnsClient.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Serilog.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Serilog.Settings.AppSettings.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Serilog.Sinks.Telegram.Alternative.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Snappier.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asdfg\source\repos\Web server\Web server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\Web server.csproj.AssemblyReference.cache
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\Web server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\Web server.AssemblyInfoInputs.cache
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\Web server.AssemblyInfo.cs
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\Web server.csproj.CoreCompileInputs.cache
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\Web server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\Web server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\staticwebassets\msbuild.Web server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\staticwebassets\msbuild.build.Web server.props
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web server.props
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Web server.props
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\scopedcss\bundle\Web server.styles.css
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\Web server.csproj.CopyComplete
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\Web server.dll
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\refint\Web server.dll
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\Web server.pdb
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\Web server.genruntimeconfig.cache
+C:\Users\asdfg\source\repos\Web server\Web server\obj\Debug\net6.0\ref\Web server.dll
